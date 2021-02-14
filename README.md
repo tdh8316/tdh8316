@@ -1,6 +1,10 @@
 ## Hi, there 👋
 I'm Donghyeok Tak, an 18-year-old software developer.
 
+> K-고3...
+
+> I'm preparing for CSAT... But I still can respond to email!
+
 ### I code in...
 ![C++](https://img.shields.io/badge/-C++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=fff)
