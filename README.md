@@ -11,7 +11,7 @@ I'm Donghyeok Tak, an 18-year-old software developer.
 ![Dart](https://img.shields.io/badge/-Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00abb8?style=for-the-badge&logo=go&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-Javascript-f1e05a?style=for-the-badge&logo=Javascript&logoColor=fff)
-![Julia](https://img.shields.io/badge/-Julia-a270ba?style=for-the-badge&logo=go&logoColor=fff)
+![Julia](https://img.shields.io/badge/-Julia-a270ba?style=for-the-badge&logo=julia&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f18e33?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-dea584?style=for-the-badge&logo=rust&logoColor=fff)
