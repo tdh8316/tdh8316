@@ -1,10 +1,6 @@
 ## Hi, there 👋
 I'm Donghyeok Tak, an 18-year-old software developer.
 
-> K-고3...
-
-> I'm preparing for CSAT... But I still can respond to email!
-
 ### I code in...
 ![C++](https://img.shields.io/badge/-C++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=fff)
@@ -16,4 +12,3 @@ I'm Donghyeok Tak, an 18-year-old software developer.
 ![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-dea584?style=for-the-badge&logo=rust&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-2b7489?style=for-the-badge&logo=typescript&logoColor=fff)
-
