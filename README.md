@@ -9,3 +9,4 @@ I'm Donghyeok Tak, an 18-year-old software developer.
 ### External links
 - [buymeacoffee](https://www.buymeacoffee.com/tdh8316)
 - [patreon](https://www.patreon.com/tdh8316)
+- [medium](https://medium.com/@tdh8316)
