@@ -1,5 +1,5 @@
 ## Hi, there 👋
-I'm Donghyeok Tak, researching Spiking Neural Networks and majoring in software at Kwangwoon University.
+I'm Donghyeok Tak, researching neuromorphic systems and majoring in software at Kwangwoon University.
 
 ## Research Interests
 
