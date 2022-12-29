@@ -1,25 +1,14 @@
 ## Hi, there 👋
-I'm Donghyeok Tak, researching neuromorphic systems and spiking neural networks and majoring in software at Kwangwoon University.
+
+I'm Donghyeok Tak, majoring in software and researching neuromorphic systems and spiking neural networks at Kwangwoon University.
 
 ## Research Interests
 
-### Artificial Intelligence
-
-- Spiking Neural Networks
-
-### Computer Architecture
-
-- Von Neumann Architecture
-- Neuromorphic Architecture
-- Operating System
-
-### Programming Language Theory
-
-- Probabilistic Programming
-- Compilers
+I'm interested in **computer architectures**-especially neuromorphic systems and **spiking neural networks**, **programming language theory**, and **compilers**.
 
 ## Interest Areas
 
-- Wireless Communication and Security
-- Mobile Software
+I'm also interested in everything computers can do! Here is some examples what it is:
+- Builing beautiful applications using flutter
 - Human-Computer Interaction
+- Wireless Communication and Security
