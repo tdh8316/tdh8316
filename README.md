@@ -8,7 +8,7 @@ I'm interested in **computer architectures**-especially neuromorphic systems and
 
 ## Interest Areas
 
-I'm also interested in everything computers can do! Here is some examples what it is:
+I'm also interested in everything computers can do! These are some examples:
 - Builing beautiful applications using flutter
 - Human-Computer Interaction
 - Wireless Communication and Security
