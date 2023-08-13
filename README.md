@@ -10,4 +10,4 @@ However, my interest area includes everything computers can do! Here are some ex
 
 - Building beautiful applications using flutter
 - Wireless communication and SDR
-- Autonomous Driving and Trajectory Prediction
+- Autonomous Driving
